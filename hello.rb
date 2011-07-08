@@ -3,8 +3,8 @@ require 'net/http'
 require 'rubygems'
 require 'xmlsimple'
 require 'haml'
-require "roauth"
-require "nestful"
+require 'roauth'
+require 'nestful'
 
 class RetrieveData
   
@@ -25,26 +25,30 @@ class RetrieveData
   end
   
   def RetrieveTwitterTrends
-    url = "https://twitter.com/direct_messages.json"
+    uri = 'http://api.twitter.com/1/trends/44418.xml'
     oauth = {
-      :consumer_key    => "consumer_key",
-      :consumer_secret => "consumer_secret",
-      :access_key      => "access_key",
-      :access_secret   => "access_secret"
+        :consumer_key     => "dVpjnhvoYrtjAldtQ4Mw",
+        :consumer_secret  => "btuUSqkdIzxPVUJHe7O8bOMUQ4paeZn7grhZfO7zE",
+        :access_key       => "51006340-NuwlHabrTJTdLXyyVCokFbwCKMINIZxklffH6DHBM",
+        :access_secret    => "ujn7X3ZZmZ4gphk9kgUMybhTZPdGWpveweQTwzwedBw"
     }
     params = {
-      :count    => "11",
-      :since_id => "5000"
+        'count' => "11",
+        'since_id' => "5000"
     }
-    oauth_header = ROAuth.header(oauth, url, params)
-    Nestful.get(url, :params => params, :headers => {'Authorization' => oauth_header})
+    oauth_header = ROAuth.header(oauth, uri, params)
+    File.open("file2.xml", "w+") do |f2|
+      f2.puts(Nestful.get(uri, :params => params, :headers => {'Authorization' => oauth_header}))
+    end
   end
   
+
 end
 
  get '/' do
     data = RetrieveData.new
-    @youtube_toprated = data.RetrieveTubeTop 
+    @youtube_toprated = data.RetrieveTubeTop
+    @twitter_trends = data.RetrieveTwitterTrends  
     
     haml :index
  end
