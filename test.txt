@@ -1,0 +1,40 @@
+///// content of views/index.haml \\\\\
+
+!!! XML
+!!!
+%html
+  %head
+    %title Lorenzo Test
+  
+  %style{:type => "text/css", :media => "screen"}
+    :plain
+      body {
+        background-color: #aaa;
+      }
+      td{padding-bottom: 100px;padding-right: 100px;}
+     
+  %body
+    #main
+      %table
+        %tr
+          %td
+            - @youtube_toprated.each do |toptube|
+              %p
+                = toptube + "\n"
+          %td
+            - @youtube_toprated.each do |toptube|
+              %p
+                = toptube + "\n" 
+        %tr
+          %td
+            - @youtube_toprated.each do |toptube|
+              %p
+                = toptube + "\n"
+          %td
+            - @youtube_toprated.each do |toptube|
+              %p
+                = toptube + "\n"   
+          
+                
+      
+
