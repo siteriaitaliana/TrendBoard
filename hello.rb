@@ -16,10 +16,10 @@ class RetrieveData
         f1.puts(http.get(uri.path))
       end
     end   
-    feed = XmlSimple.xml_in("file1.xml", {'KeyAttr' => 'name'})
+    youtubefeed = XmlSimple.xml_in("file1.xml", {'KeyAttr' => 'name'})
     titles = Array.new
     (0..24).each do |i|
-      titles.push((feed['entry'][i]['title'][0]['content']))
+      titles.push(youtubefeed ['entry'][i]['title'][0]['content'])
     end
     return titles
   end
@@ -40,6 +40,10 @@ class RetrieveData
     File.open("file2.xml", "w+") do |f2|
       f2.puts(Nestful.get(uri, :params => params, :headers => {'Authorization' => oauth_header}))
     end
+    twitterfeed = XmlSimple.xml_in("file2.xml", {'KeyAttr' => 'name'})
+    trends = Array.new
+    trends.push(twitterfeed ['trends'][4][1])
+    
   end
   
 
