@@ -7,22 +7,47 @@
   %style{:type => "text/css", :media => "screen"}
     :plain
       body {
-        background-color: #aaa;
+        background-color: #43c0fa;
+  
+        /* Firefox 3.6+ */
+        background: -moz-linear-gradient(100% 100% 90deg, #000, #43c0fa);
+  
+        /* Safari 4-5, Chrome 1-9 */
+        /* -webkit-gradient(<type>, <point> [, <radius>]?, <point> [, <radius>]? [, <stop>]*) */
+        background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#000), to(#2F2727));
+  
+        /* Safari 5.1+, Chrome 10+ */
+        background: -webkit-linear-gradient(#000, #43c0fa);
+        
+        /* Opera 11.10+ */
+        background: -o-linear-gradient(#000, #43c0fa);
       }
-      td{padding-bottom: 100px;padding-right: 100px;}
+      td{padding-bottom: 30px;padding-right: 20px; color: #fff;}
+      #maincolumn{margin: 0 auto; width: 1200px;}
+      #leftcolumn{position: absolute; top: 0px; left: 0px; background-image:url('logo.png'); width:200px; height:500px;}
      
   %body
-    #main
+    #leftcolumn
+    #maincolumn
       %table
         %tr
           %td
-            - @youtube_toprated.each do |toptube|
+            %h1 Latest Twitter trends 
+            - @twitter_trends.each do |trend|
               %p
-                = toptube + "\n"
+                = trend 
           %td
-            - @twitter_trends.each do |twitter|
+            %h1 Latest Twitter twitt
+            - @twitter_twitts.each do |twitt|
               %p
-                = twitter 
+                = twitt
+        %tr 
+          %td
+            %h1 Top-Rated YouTube video
+            - @youtube_toprated.each do |video|
+              %p
+                = video  
+            
         
           
                 

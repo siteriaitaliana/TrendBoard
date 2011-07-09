@@ -1,10 +1,12 @@
+require 'rubygems'
 require 'sinatra'
 require 'net/http'
-require 'rubygems'
 require 'xmlsimple'
 require 'haml'
 require 'roauth'
 require 'nestful'
+require 'uri'
+require 'json'
 
 class RetrieveData
   
@@ -25,7 +27,7 @@ class RetrieveData
   end
   
   def RetrieveTwitterTrends
-    uri = 'http://api.twitter.com/1/trends/44418.xml'
+    trendsuri = 'http://api.twitter.com/1/trends/44418.json'
     oauth = {
         :consumer_key     => "dVpjnhvoYrtjAldtQ4Mw",
         :consumer_secret  => "btuUSqkdIzxPVUJHe7O8bOMUQ4paeZn7grhZfO7zE",
@@ -33,29 +35,69 @@ class RetrieveData
         :access_secret    => "ujn7X3ZZmZ4gphk9kgUMybhTZPdGWpveweQTwzwedBw"
     }
     params = {
-        'count' => "11",
+        'count' => "10",
         'since_id' => "5000"
     }
-    oauth_header = ROAuth.header(oauth, uri, params)
-    File.open("file2.xml", "w+") do |f2|
-      f2.puts(Nestful.get(uri, :params => params, :headers => {'Authorization' => oauth_header}))
-    end
-    twitterfeed = XmlSimple.xml_in("file2.xml", {'KeyAttr' => 'name'})
-    trends = Array.new
-    trends.push(twitterfeed ['trends'][4][1])
+    oauth_header_trends = ROAuth.header(oauth, trendsuri, params)
+    trends = Nestful.get(trendsuri, :params => params, :headers => {'Authorization' => oauth_header_trends})
+    trend = JSON.parse(trends)
+    trendquery = Array.new()
+    trendquery.push(trend[0]['trends'][0]['name'])
+    trendquery.push(trend[0]['trends'][1]['name'])
+    trendquery.push(trend[0]['trends'][2]['name'])
+    trendquery.push(trend[0]['trends'][3]['name'])
+    trendquery.push(trend[0]['trends'][4]['name'])
+    trendquery.push(trend[0]['trends'][5]['name'])
+    trendquery.push(trend[0]['trends'][6]['name'])
+    trendquery.push(trend[0]['trends'][7]['name'])
+    trendquery.push(trend[0]['trends'][8]['name'])
+    trendquery.push(trend[0]['trends'][9]['name'])
     
   end
   
-
+  def RetrieveTwitts
+    lasttweets = 'http://api.twitter.com/1/statuses/public_timeline.json'
+    oauth = {
+        :consumer_key     => "dVpjnhvoYrtjAldtQ4Mw",
+        :consumer_secret  => "btuUSqkdIzxPVUJHe7O8bOMUQ4paeZn7grhZfO7zE",
+        :access_key       => "51006340-NuwlHabrTJTdLXyyVCokFbwCKMINIZxklffH6DHBM",
+        :access_secret    => "ujn7X3ZZmZ4gphk9kgUMybhTZPdGWpveweQTwzwedBw"
+    }
+    params = {
+        'count' => "10",
+        'since_id' => "5000"
+    }
+    
+    oauth_header_tweets = ROAuth.header(oauth, lasttweets, params)
+    tweets = Nestful.get(lasttweets, :params => params, :headers => {'Authorization' => oauth_header_tweets})
+    tweet = JSON.parse(tweets)
+    tweetquery = Array.new(10)
+    tweetquery.push(tweet[0]['text']) 
+    tweetquery.push(tweet[1]['text']) 
+    tweetquery.push(tweet[2]['text']) 
+    tweetquery.push(tweet[3]['text']) 
+    tweetquery.push(tweet[4]['text']) 
+    tweetquery.push(tweet[5]['text']) 
+    tweetquery.push(tweet[6]['text']) 
+    tweetquery.push(tweet[7]['text']) 
+    tweetquery.push(tweet[8]['text']) 
+    tweetquery.push(tweet[9]['text'])  
+    
+  end
+  
+  
 end
 
  get '/' do
     data = RetrieveData.new
     @youtube_toprated = data.RetrieveTubeTop
-    @twitter_trends = data.RetrieveTwitterTrends  
+    @twitter_trends = data.RetrieveTwitterTrends
+    @twitter_twitts = data.RetrieveTwitts  
     
     haml :index
  end
+ 
+
 
   
 
