@@ -14,12 +14,12 @@ class RetrieveData
   def RetrieveTubeTop 
     youtubefeedurl = 'http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?time=today&max-results=10'
     uri = URI.parse(youtubefeedurl)
-    File.open("file1.xml", "w+") do |f|
+    File.open("#{RAILS_ROOT}/tmp/myfile_#{Process.pid}.xml", "w+") do |f|
       Net::HTTP.start(uri.host, uri.port) do  |http|
         f.puts(http.get(uri.path))
       end
     end   
-    youtubefeed = XmlSimple.xml_in("file1.xml", {'KeyAttr' => 'name'})
+    youtubefeed = XmlSimple.xml_in("#{RAILS_ROOT}/tmp/myfile_#{Process.pid}.xml", {'KeyAttr' => 'name'})
     titles = Array.new
     (0..24).each do |i|
       titles.push(youtubefeed ['entry'][i]['title'][0]['content'])
