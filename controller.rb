@@ -145,7 +145,7 @@ class RetrieveData
   
 end
 
-class Main < Sinatra::Base
+
   get '/' do
     data = RetrieveData.new
     @youtube_toprated = data.RetrieveTubeTop
@@ -162,7 +162,7 @@ class Main < Sinatra::Base
   send_file "logo.png"
   end
   
-end
+
  
 
 
