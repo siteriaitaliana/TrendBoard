@@ -145,7 +145,8 @@ class RetrieveData
   
 end
 
- get '/' do
+class Main < Sinatra::Base
+  get '/' do
     data = RetrieveData.new
     @youtube_toprated = data.RetrieveTubeTop
     @twitter_trends = data.RetrieveTwitterTrends
@@ -159,7 +160,10 @@ end
  get '/logo.png' do
   #custom logic..
   send_file "logo.png"
+  end
+  
 end
+ 
 
 
 
