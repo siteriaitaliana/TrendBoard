@@ -8,9 +8,9 @@ require 'nestful'
 require 'uri'
 require 'json'
 
-class RetrieveData
+class RetrieveData < Sinatra::base
   
-  def RetrieveTubeTop
+  def RetrieveTubeTop 
     youtubefeedurl = 'http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?time=today&max-results=10'
     uri = URI.parse(youtubefeedurl)
     File.open("file1.xml", "w+") do |f|
