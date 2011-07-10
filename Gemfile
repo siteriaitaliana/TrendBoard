@@ -1,2 +1,9 @@
-source 'http://rubygems.org'
-gem 'sinatra'
+source :gemcutter
+gem 'sinatra','1.0'
+require 'net/http'
+require 'xmlsimple'
+require 'haml'
+require 'roauth'
+require 'nestful'
+require 'uri'
+require 'json'
