@@ -8,7 +8,7 @@ require 'nestful'
 require 'uri'
 require 'json'
 
-class RetrieveData < Sinatra::base
+class RetrieveData 
   
   def RetrieveTubeTop 
     youtubefeedurl = 'http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?time=today&max-results=10'
