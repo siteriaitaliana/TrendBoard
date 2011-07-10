@@ -14,7 +14,7 @@ class RetrieveData
   def RetrieveTubeTop 
     youtubefeedurl = 'http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?time=today&max-results=10'
     uri = URI.parse(youtubefeedurl)
-    File.open("#{RAILS_ROOT}/tmp/myfile_#{Process.pid}.xml", "w+") do |f|
+    File.open("./tmp/myfile_#{Process.pid}.xml", "w+") do |f|
       Net::HTTP.start(uri.host, uri.port) do  |http|
         f.puts(http.get(uri.path))
       end
