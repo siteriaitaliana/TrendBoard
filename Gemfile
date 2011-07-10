@@ -6,4 +6,5 @@ gem 'haml'
 gem 'roauth'
 gem 'nestful'
 gem 'json'
+gem 'i18n'
 

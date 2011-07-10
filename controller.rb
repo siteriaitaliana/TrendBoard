@@ -7,6 +7,7 @@ require 'roauth'
 require 'nestful'
 require 'json'
 require 'uri'
+require 'i18n'
 
 class RetrieveData 
   
