@@ -1,13 +1,3 @@
-require 'rubygems'
-require 'sinatra'
-require 'net/http'
-require 'xmlsimple'
-require 'haml'
-require 'roauth'
-require 'nestful'
-require 'uri'
-require 'json'
-
 class RetrieveData 
   
   def RetrieveTubeTop 
