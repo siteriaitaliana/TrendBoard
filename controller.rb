@@ -19,7 +19,7 @@ class RetrieveData
         f.puts(http.get(uri.path))
       end
     end   
-    youtubefeed = XmlSimple.xml_in("#{RAILS_ROOT}/tmp/myfile_#{Process.pid}.xml", {'KeyAttr' => 'name'})
+    youtubefeed = XmlSimple.xml_in("./tmp/myfile_#{Process.pid}.xml", {'KeyAttr' => 'name'})
     titles = Array.new
     (0..24).each do |i|
       titles.push(youtubefeed ['entry'][i]['title'][0]['content'])
