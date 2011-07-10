@@ -3,50 +3,106 @@
 %html
   %head
     %title Lorenzo Test
+    %meta{"cache-control" => "no-cache"}
   
   %style{:type => "text/css", :media => "screen"}
     :plain
       body {
-        background-color: #43c0fa;
+        background-color: #0299df;
   
         /* Firefox 3.6+ */
-        background: -moz-linear-gradient(100% 100% 90deg, #000, #43c0fa);
+        background: -moz-linear-gradient(100% 100% 90deg, #000, #0299df);
   
         /* Safari 4-5, Chrome 1-9 */
         /* -webkit-gradient(<type>, <point> [, <radius>]?, <point> [, <radius>]? [, <stop>]*) */
         background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#000), to(#2F2727));
   
         /* Safari 5.1+, Chrome 10+ */
-        background: -webkit-linear-gradient(#000, #43c0fa);
+        background: -webkit-linear-gradient(#000, #0299df);
         
         /* Opera 11.10+ */
-        background: -o-linear-gradient(#000, #43c0fa);
+        background: -o-linear-gradient(#000, #0299df);
       }
-      td{padding-bottom: 30px;padding-right: 20px; color: #fff;}
-      #maincolumn{margin: 0 auto; width: 1200px;}
-      #leftcolumn{position: absolute; top: 0px; left: 0px; background-image:url('logo.png'); width:200px; height:500px;}
+      h1{color:#e400ff}
+      #maincolumn{margin: 0 auto; width: 1200px; color: #fff;}
+      #maincolumn tr td{border: 10px solid #00ff30; padding: 3px;max-width:400px; }
+      #insidecolumn tr td{border: none;}
+      #leftcolumn{position: absolute; top: 0px; left: 0px; background-image:url('/logo.png'); width:200px; height:500px;}
+  
+  :javascript
+    var page = "/";
+    function ajax(url,target)
+     {
+       if (window.XMLHttpRequest) {
+           req = new XMLHttpRequest();
+           req.onreadystatechange = function() {ajaxDone(target);};
+           req.open("GET", url, true);
+           req.send(null);
+       // IE/Windows ActiveX version
+       } else if (window.ActiveXObject) {
+           req = new ActiveXObject("Microsoft.XMLHTTP");
+           if (req) {
+               req.onreadystatechange = function() {ajaxDone(target);};
+               req.open("GET", url, true);
+               req.send();
+           }
+       }
+           setTimeout("ajax(page,'maincolumn')", 10000);
+    }
+    function ajaxDone(target) {
+       // only if req is "loaded"
+       if (req.readyState == 4) {
+           // only if "OK"
+           if (req.status == 200 || req.status == 304) {
+               results = req.responseText;
+               document.getElementById(target).innerHTML = results;
+           } else {
+               document.getElementById(target).innerHTML="ajax error:\n" +
+                   req.statusText;
+           }
+       }
+    }
      
-  %body
+  %body{ :onload => "ajax('/','maincolumn')"}
     #leftcolumn
     #maincolumn
       %table
         %tr
           %td
-            %h1 Latest Twitter trends 
-            - @twitter_trends.each do |trend|
-              %p
-                = trend 
+            #insidecolumn
+              %table
+                %thead
+                  %tr
+                    %h1 Latest Twitter twitt
+                %tbody
+                  %tr
+                    %td
+                      - @twitter_twitts.each do |twitt|
+                        = twitt 
+                  %tr
+                    %td
+                      %h1 Latest Twitter trends 
+                      - @twitter_trends.each do |trend|
+                        = trend
+                        
           %td
-            %h1 Latest Twitter twitt
-            - @twitter_twitts.each do |twitt|
-              %p
-                = twitt
-        %tr 
+            %h1 Latest Guardian news
+            - @guardian_news.each do |news|
+              = news
+              = "\n"
+          %td
+            %h1 Latest BBC news
+            - @bbc_news.each do |bbcnews|
+              = bbcnews
+        %tr
+          %td
+            %h1 Top-Searched in Google
+            - @google_trends.each do |trends|
+              = trends 
           %td
             %h1 Top-Rated YouTube video
             - @youtube_toprated.each do |video|
-              %p
-                = video  
+              = video  
             
         
           

@@ -1,0 +1,746 @@
+#<Net::HTTPOK:0x104c4f9c8>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">  
+  <channel> 
+    <title>BBC News - Home</title>  
+    <link>http://www.bbc.co.uk/go/rss/int/news/-/news/</link>  
+    <description>The latest stories from the Home section of the BBC News web site.</description>  
+    <language>en-gb</language>  
+    <lastBuildDate>Sun, 10 Jul 2011 13:28:18 GMT</lastBuildDate>  
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>  
+    <ttl>15</ttl>  
+    <atom:link href="http://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>  
+    <item> 
+      <title>Murdoch in UK amid BSkyB pressure</title>  
+      <description>Rupert Murdoch arrives in the UK to take charge of the handling of the phone-hacking crisis as he faces growing pressure to scrap his bid to take over BSkyB.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-14097275</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-14097275</guid>  
+      <pubDate>Sun, 10 Jul 2011 13:14:47 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53961000/jpg/_53961337_012416986-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53961000/jpg/_53961335_012416986-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Australia to tax worst polluters</title>  
+      <description>Australia unveils plans to slap a tax on carbon emissions for the country's worst polluters, in one of the biggest economic reforms in years.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-asia-pacific-14096750</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-pacific-14096750</guid>  
+      <pubDate>Sun, 10 Jul 2011 08:28:58 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962238_012402448-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962116_012396830-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Live - British Grand Prix</title>  
+      <description>Fernando Alonso leads the British Grand Prix from Sebastian Vettel and Lewis Hamilton as Jenson Button retires after a disastrous pit stop.</description>  
+      <link>http://news.bbc.co.uk/go/rss/int/news/-/sport1/hi/motorsport/formula_one/9534435.stm</link>  
+      <guid isPermaLink="false">http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/9534435.stm</guid>  
+      <pubDate>Sun, 10 Jul 2011 10:00:28 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53978000/jpg/_53978179_012421292-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53978000/jpg/_53978088_012421292-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Advice on exercise for under-5s</title>  
+      <description>For the first time government health experts are issuing advice to parents on exercise for children aged under five.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/health-14080072</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-14080072</guid>  
+      <pubDate>Sun, 10 Jul 2011 00:00:32 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53949000/jpg/_53949149_toddler_playing-spl.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53949000/jpg/_53949151_toddler_playing-spl.jpg"/> 
+    </item>  
+    <item> 
+      <title>Shuttle set for final ISS visit</title>  
+      <description>Atlantis is due to dock at the International Space Station on the final mission of Nasa's 30-year shuttle programme.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/science-environment-14097617</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-14097617</guid>  
+      <pubDate>Sun, 10 Jul 2011 08:41:09 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53947000/jpg/_53947994_53945288.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53947000/jpg/_53947859_shuttle1.jpg"/> 
+    </item>  
+    <item> 
+      <title>I'm in the centre, says Miliband</title>  
+      <description>Ed Miliband urges Labour against "looking inwards" and promises to be at the "centre ground" of politics as the party looks to regain power.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-14097575</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-14097575</guid>  
+      <pubDate>Sun, 10 Jul 2011 09:54:13 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962489_012212673-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962487_012212673-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Six police officers hurt in riot</title>  
+      <description>Six police officers are injured in Northern Ireland as they deal with disturbances in counties Antrim and Londonderry.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-northern-ireland-14096799</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-northern-ireland-14096799</guid>  
+      <pubDate>Sun, 10 Jul 2011 13:32:15 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53976000/jpg/_53976198_donaghadeeandcarricktrouble2011097.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53976000/jpg/_53976196_donaghadeeandcarricktrouble2011097.jpg"/> 
+    </item>  
+    <item> 
+      <title>Somalis flee drought to Mogadishu</title>  
+      <description>Somalis fleeing from the country's worsening drought are converging on the capital, Mogadishu, ruined by 20 years of civil war.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-africa-14098646</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-14098646</guid>  
+      <pubDate>Sun, 10 Jul 2011 12:05:32 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53977000/jpg/_53977031_dsc04706.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53977000/jpg/_53977032_dsc04650.jpg"/> 
+    </item>  
+    <item> 
+      <title>Huhne: Energy bill claim nonsense</title>  
+      <description>Chris Huhne dismisses as "nonsense" a Sunday newspaper report that the UK is facing the highest energy costs in Europe.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-14097567</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-14097567</guid>  
+      <pubDate>Sun, 10 Jul 2011 11:38:11 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962456_010237373-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962454_010237373-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>'Clean-up bid' for whaling body</title>  
+      <description>With Japan's intentions unclear, issues such as indigenous whaling and internal reforms look set to dominate this year's International Whaling Commission meeting.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/science-environment-14079749</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-14079749</guid>  
+      <pubDate>Sun, 10 Jul 2011 08:50:21 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53937000/jpg/_53937228_53937225.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53937000/jpg/_53937224_53937221.jpg"/> 
+    </item>  
+    <item> 
+      <title>Pony 'beaten' into lake is killed</title>  
+      <description>A pony has died after it was beaten into a Hampshire lake by a group of about 12 people, the RSPCA says.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-england-hampshire-14097779</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-hampshire-14097779</guid>  
+      <pubDate>Sun, 10 Jul 2011 10:39:56 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/50993000/jpg/_50993922_28_11_1---police-tape_web-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/50990000/jpg/_50990933_28_11_1---police-tape_web-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Hollywood night for royal couple</title>  
+      <description>The Duke and Duchess of Cambridge wow the crowds in California, as Prince William scores at polo, on the latest stage of their first official foreign tour.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-us-canada-14096479</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-14096479</guid>  
+      <pubDate>Sun, 10 Jul 2011 10:33:39 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53976000/jpg/_53976091_hi012419343.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53976000/jpg/_53976093_hi012419343.jpg"/> 
+    </item>  
+    <item> 
+      <title>New Dallas series given go-ahead in US</title>  
+      <description>A full series update of the classic 1980s US soap opera Dallas has been given the go ahead, it has been announced.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/entertainment-arts-14098543</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-14098543</guid>  
+      <pubDate>Sun, 10 Jul 2011 11:54:50 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53977000/jpg/_53977000_53976999.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53977000/jpg/_53977002_53977001.jpg"/> 
+    </item>  
+    <item> 
+      <title>Up in the air a lot - frequent flyer hits 10m miles</title>  
+      <description>A US businessman is rewarded for his loyalty to one single airline company after accumulating 10 million air miles.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-us-canada-14097038</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-14097038</guid>  
+      <pubDate>Sun, 10 Jul 2011 06:31:06 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962310_012247084-2.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962312_012247084-2.jpg"/> 
+    </item>  
+    <item> 
+      <title>Sportsday Live - Sunday's sports news as it happens</title>  
+      <description>Birmingham striker Kevin Phillips joins Blackpool</description>  
+      <link>http://news.bbc.co.uk/go/rss/int/news/-/sport1/hi/front_page/14097118.stm</link>  
+      <guid isPermaLink="false">http://news.bbc.co.uk/sport1/hi/front_page/14097118.stm</guid>  
+      <pubDate>Sun, 10 Jul 2011 07:00:05 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53977000/jpg/_53977749_phillips.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962783_phillips.jpg"/> 
+    </item>  
+    <item> 
+      <title>Nicklaus plays down McIlroy hype</title>  
+      <description>Golf legend Jack Nicklaus warns that Rory McIlroy still has plenty to do to prove he is "the guy to watch" in majors as the Northern Irishman prepares for the Open Championship at Sandwich.</description>  
+      <link>http://news.bbc.co.uk/go/rss/int/news/-/sport1/hi/golf/14097606.stm</link>  
+      <guid isPermaLink="false">http://news.bbc.co.uk/sport1/hi/golf/14097606.stm</guid>  
+      <pubDate>Sun, 10 Jul 2011 10:30:22 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53874000/jpg/_53874558_rory_81.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53872000/jpg/_53872328_rory_81.jpg"/> 
+    </item>  
+    <item> 
+      <title>Powell could move on after defeat</title>  
+      <description>England coach Hope Powell says she is considering quitting after the World Cup quarter-final defeat by France.</description>  
+      <link>http://news.bbc.co.uk/go/rss/int/news/-/sport1/hi/football/14095804.stm</link>  
+      <guid isPermaLink="false">http://news.bbc.co.uk/sport1/hi/football/14095804.stm</guid>  
+      <pubDate>Sat, 09 Jul 2011 20:17:08 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53961000/jpg/_53961269_012416158-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Scottish Open leaderboard</title>  
+      <description>Latest scores as play resumes at the restructured Scottish Open at Castle Stuart.</description>  
+      <link>http://news.bbc.co.uk/go/rss/int/news/-/sport1/hi/golf/live_scores/6680943.stm</link>  
+      <guid isPermaLink="false">http://news.bbc.co.uk/sport1/hi/golf/live_scores/6680943.stm</guid>  
+      <pubDate>Mon, 07 Sep 2009 16:57:03 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962314_monty464i.jpg"/> 
+    </item>  
+    <item> 
+      <title>RFU chairman Thomas stands down</title>  
+      <description>Martyn Thomas stands down from his position as chairman of the Rugby Football Union.</description>  
+      <link>http://news.bbc.co.uk/go/rss/int/news/-/sport1/hi/rugby_union/14098988.stm</link>  
+      <guid isPermaLink="false">http://news.bbc.co.uk/sport1/hi/rugby_union/14098988.stm</guid>  
+      <pubDate>Sun, 10 Jul 2011 12:52:58 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53977000/jpg/_53977161_99636900.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53977000/jpg/_53977159_99636900.jpg"/> 
+    </item>  
+    <item> 
+      <title>Amazon centre to create 900 jobs</title>  
+      <description>A new processing centre in Staffordshire will create 900 jobs, according to online retailer Amazon.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-england-stoke-staffordshire-14098609</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-stoke-staffordshire-14098609</guid>  
+      <pubDate>Sun, 10 Jul 2011 13:04:15 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53976000/jpg/_53976588__50783072_011004569-1-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53976000/jpg/_53976947__50783072_011004569-1-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Trapped boys rescued from cliffs</title>  
+      <description>A lifeguard is airlifted to safety after becoming stranded while trying to rescue two boys trapped on cliffs.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-england-tyne-14098029</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-tyne-14098029</guid>  
+      <pubDate>Sun, 10 Jul 2011 10:11:27 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53975000/jpg/_53975784_2011-07-09tvlbcallout01.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53975000/jpg/_53975782_2011-07-09tvlbcallout01.jpg"/> 
+    </item>  
+    <item> 
+      <title>NoW probe 'no impact' on Sheridan</title>  
+      <description>The News of the World scandal has no bearing on Tommy Sheridan's perjury conviction, leading QC Paul McBride says.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-scotland-14098176</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-scotland-14098176</guid>  
+      <pubDate>Sun, 10 Jul 2011 12:13:07 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53911000/jpg/_53911504_tommy_sheridan_pa.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53911000/jpg/_53911505_tommy_sheridan_pa.jpg"/> 
+    </item>  
+    <item> 
+      <title>Open golf resumes after washout</title>  
+      <description>The final round of the Scottish Open is under way after play was wiped out on Saturday by severe storms and flooding.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-scotland-highlands-islands-14097656</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-scotland-highlands-islands-14097656</guid>  
+      <pubDate>Sun, 10 Jul 2011 10:33:12 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962632_hi012416534.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962554_hi012416534.jpg"/> 
+    </item>  
+    <item> 
+      <title>Dallat anger at Coleraine attack</title>  
+      <description>SDLP assembly member John Dallat says a shooting at a house in Coleraine, County Londonderry, was sectarian.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-northern-ireland-14097738</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-northern-ireland-14097738</guid>  
+      <pubDate>Sun, 10 Jul 2011 11:03:58 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962861_policeback226.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962863_policeback226.jpg"/> 
+    </item>  
+    <item> 
+      <title>Shots fired at house in Ballymena</title>  
+      <description>Shots are fired at a house on the Larne Road in Ballymena on Sunday morning.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-northern-ireland-14097824</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-northern-ireland-14097824</guid>  
+      <pubDate>Sun, 10 Jul 2011 10:17:40 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53976000/jpg/_53976058_226policecar.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53976000/jpg/_53976059_226policecar.jpg"/> 
+    </item>  
+    <item> 
+      <title>Lib Dems criticised over AM fight</title>  
+      <description>The Liberal Democrats should have fought a legal battle to save disqualified Welsh assembly member John Dixon, claims a party peer.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-wales-14092791</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-wales-14092791</guid>  
+      <pubDate>Sun, 10 Jul 2011 10:49:14 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53955000/jpg/_53955827_dixon304.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53959000/jpg/_53959239_carlilecomp3041.jpg"/> 
+    </item>  
+    <item> 
+      <title>Pedestrian dies in minibus crash</title>  
+      <description>A pedestrian is killed in a road collision with a minibus near Abergavenny.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-wales-south-east-wales-14098002</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-wales-south-east-wales-14098002</guid>  
+      <pubDate>Sun, 10 Jul 2011 09:59:58 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Senegal urged to halt Habre move</title>  
+      <description>The UN human rights chief urges Senegal not to send Chad's ex-leader Hissene Habre home, citing torture fears a day ahead of his planned extradition.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-africa-14097937</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-14097937</guid>  
+      <pubDate>Sun, 10 Jul 2011 11:50:52 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53951000/jpg/_53951168_000128763-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53951000/jpg/_53951170_000128763-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>World leaders greet South Sudan</title>  
+      <description>Global leaders send their congratulations as South Sudan becomes the world's newest nation with an independence ceremony in its capital.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-africa-14095681</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-14095681</guid>  
+      <pubDate>Sat, 09 Jul 2011 20:31:51 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53961000/jpg/_53961191_012413662-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53961000/jpg/_53961189_012413662-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>China's import growth slows down</title>  
+      <description>The pace of growth of imports to China slows down in June as the government's efforts to rein in growth hit domestic demand.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/business-14096897</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-14096897</guid>  
+      <pubDate>Sun, 10 Jul 2011 05:12:41 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962214_chinashopping.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962218_chinashopping.jpg"/> 
+    </item>  
+    <item> 
+      <title>Japan quake sparks tsunami alert</title>  
+      <description>A powerful earthquake hits the same area of north-east Japan that was devastated four months ago, but fears of a tsunami prove unfounded.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-14096707</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-14096707</guid>  
+      <pubDate>Sun, 10 Jul 2011 03:25:56 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962038_012348520-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962051_012348520-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>NoW publishes its final edition</title>  
+      <description>The 8,674th and final edition of the News of the World is published, after phone-hacking allegations prompted the closure of the 168-year-old paper.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-14096215</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-14096215</guid>  
+      <pubDate>Sun, 10 Jul 2011 09:16:15 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53961000/jpg/_53961337_012416986-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53961000/jpg/_53961335_012416986-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Berlusconi firm in damages order</title>  
+      <description>An Italian court orders Silvio Berlusconi's Fininvest to pay 560m euros (£500m) in damages to a business rival, in a further setback for the PM.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-europe-14091890</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-14091890</guid>  
+      <pubDate>Sat, 09 Jul 2011 09:11:07 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53954000/jpg/_53954145_012404762-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53953000/jpg/_53953938_012396048-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Argentine singer Cabral shot dead</title>  
+      <description>Tributes flood in for one of Latin America's most famous folk singers and UN peace envoy, Facundo Cabral, gunned down in Guatemala.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-latin-america-14093876</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-14093876</guid>  
+      <pubDate>Sun, 10 Jul 2011 01:00:18 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53957000/jpg/_53957347_012413342-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53957000/jpg/_53957345_012413342-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Colombia towns under rebel attack</title>  
+      <description>Colombian President Juan Manuel Santos condemns Farc rebel attacks on five towns, which have left at least three people dead and many more injured.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-latin-america-14095895</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-14095895</guid>  
+      <pubDate>Sun, 10 Jul 2011 00:08:56 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53961000/gif/_53961957_colombia_cauca_santander_0711.gif"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53961000/gif/_53961959_colombia_cauca_santander_0711.gif"/> 
+    </item>  
+    <item> 
+      <title>Syria opens 'national dialogue'</title>  
+      <description>Syria's ruling party opens a "national dialogue" to discuss possible political reforms, but many opposition figures vow to stay away.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-middle-east-14096981</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-14096981</guid>  
+      <pubDate>Sun, 10 Jul 2011 13:24:46 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962280_53962273.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962282_53962273.jpg"/> 
+    </item>  
+    <item> 
+      <title>Libya's rebels maintain advance</title>  
+      <description>Libyan rebels continue to make progress against Col Gaddafi's forces as they push west from Misrata towards the key town of Zlitan, on the road to Tripoli.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-africa-14094671</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-14094671</guid>  
+      <pubDate>Sat, 09 Jul 2011 16:16:04 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53959000/gif/_53959176_rebel.gif"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53959000/gif/_53959154_rebel.gif"/> 
+    </item>  
+    <item> 
+      <title>Dozens die in India train crash</title>  
+      <description>At least 31 people are killed and more than 100 injured in northern India as a train from Calcutta to Delhi derails.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-south-asia-14099270</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-south-asia-14099270</guid>  
+      <pubDate>Sun, 10 Jul 2011 13:13:33 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53978000/jpg/_53978298_012421274-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53978000/jpg/_53978296_012421274-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Bodies of kidnapped Afghans found</title>  
+      <description>The bodies of six Afghan deminers kidnapped last week have been found, while Nato says three foreign troops were killed in separate attacks.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-south-asia-14096985</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-south-asia-14096985</guid>  
+      <pubDate>Sun, 10 Jul 2011 08:00:45 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/gif/_53962432_afghanistan_map6649.gif"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/gif/_53962431_afghan_farah_kandaharcity_0711.gif"/> 
+    </item>  
+    <item> 
+      <title>Obama seeks to break debt impasse</title>  
+      <description>US President Barack Obama is to meet Congressional leaders for talks on the debt aimed at staving off a looming default.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-us-canada-14098593</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-14098593</guid>  
+      <pubDate>Sun, 10 Jul 2011 13:27:42 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53977000/jpg/_53977162_53977050.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53977000/jpg/_53977057_53977050.jpg"/> 
+    </item>  
+    <item> 
+      <title>US army chief begins China visit</title>  
+      <description>Top US military officer, Adm Mike Mullen, begins a visit to China, aimed at improving chilly military relations between the two nations.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-asia-pacific-14097503</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-pacific-14097503</guid>  
+      <pubDate>Sun, 10 Jul 2011 10:20:41 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962792_012420033-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962864_012420033-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>MPs criticise DfT over East Coast</title>  
+      <description>MPs criticise the Department for Transport for letting National Express "get away scot-free" when terminating its East Coast rail franchise in 2009.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-14087578</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-14087578</guid>  
+      <pubDate>Sat, 09 Jul 2011 11:47:55 GMT</pubDate>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53943000/jpg/_53943276_012401580-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>NoW to print 5m of final edition</title>  
+      <description>The News of the World is doubling its print run to five million on Sunday as the 168-year-old newspaper publishes its historic final edition.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/business-14081705</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-14081705</guid>  
+      <pubDate>Sat, 09 Jul 2011 17:44:12 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53949000/jpg/_53949267_newsoftheworldpapers.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53949000/jpg/_53949269_newsoftheworldpapers.jpg"/> 
+    </item>  
+    <item> 
+      <title>Beko fridge fires started in 2007</title>  
+      <description>Fires caused by faulty Beko fridge-freezers began as long ago as 2007, the BBC learns, but customers have only just been told.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/business-14082886</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-14082886</guid>  
+      <pubDate>Sat, 09 Jul 2011 07:47:25 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53945000/jpg/_53945923_fridges001.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53945000/jpg/_53945924_fridges001.jpg"/> 
+    </item>  
+    <item> 
+      <title>Blair: Brown 'lost Labour rhythm'</title>  
+      <description>Tony Blair says Labour "lost the driving rhythm" which underpinned its success after Gordon Brown succeeded him as leader in 2007.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-14084361</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-14084361</guid>  
+      <pubDate>Fri, 08 Jul 2011 17:24:49 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53950000/jpg/_53950272_001630764-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53950000/jpg/_53950276_012189686-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>UK merchant ships 'may be armed'</title>  
+      <description>Ministers are preparing to give formal legal backing to the use of private armed guards on UK merchant vessels to protect against piracy.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-14060044</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-14060044</guid>  
+      <pubDate>Thu, 07 Jul 2011 14:42:04 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/51524000/jpg/_51524836_103759205.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/51524000/jpg/_51524839_103759205.jpg"/> 
+    </item>  
+    <item> 
+      <title>MP expenses body 'must cut costs'</title>  
+      <description>The MPs' expenses body is safeguarding public money but must do more to streamline its procedures and cut costs, says the National Audit Office.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-14067570</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-14067570</guid>  
+      <pubDate>Thu, 07 Jul 2011 15:54:28 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/52021000/jpg/_52021494_mpsnew_bbc.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/52021000/jpg/_52021492_mpsnew_bbc.jpg"/> 
+    </item>  
+    <item> 
+      <title>Stem cell hope for heart patients</title>  
+      <description>Scientists have raised hope that stem cell therapy could provide significant relief for patients disabled by untreatable chest pain.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/health-14075702</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-14075702</guid>  
+      <pubDate>Fri, 08 Jul 2011 08:43:35 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/52348000/jpg/_52348430_heartattackspl.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/52341000/jpg/_52341893_heartattackspl.jpg"/> 
+    </item>  
+    <item> 
+      <title>First synthetic organ transplant</title>  
+      <description>Surgeons in Sweden have carried out the world's first synthetic organ transplant, using an artificial windpipe coated in stem cells.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/health-14047670</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-14047670</guid>  
+      <pubDate>Thu, 07 Jul 2011 16:03:29 GMT</pubDate>  
+      <media:thumbnail width="2848" height="2136" url="http://news.bbcimg.co.uk/media/images/53902000/jpg/_53902590_cellularisedscaffoldforpatient.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53902000/jpg/_53902592_cellularisedscaffoldforpatient.jpg"/> 
+    </item>  
+    <item> 
+      <title>Suicide 'link' to money problems</title>  
+      <description>The financial crisis "almost certainly" led to an increase in suicides across Europe, health experts say.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/health-14068496</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-14068496</guid>  
+      <pubDate>Fri, 08 Jul 2011 00:20:55 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/51429000/jpg/_51429460_c0076496-cocaine_user-spl.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/51429000/jpg/_51429458_c0076496-cocaine_user-spl.jpg"/> 
+    </item>  
+    <item> 
+      <title>Religious teaching 'under threat'</title>  
+      <description>Senior religious figures have written to the Daily Telegraph to warn that religious education (RE) in schools is under threat because of government policy.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-14091568</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-14091568</guid>  
+      <pubDate>Sat, 09 Jul 2011 15:52:09 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53953000/jpg/_53953989_003741545-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53953000/jpg/_53953990_003741545-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Schools' Oxbridge divide 'stark'</title>  
+      <description>Five schools in England sent more pupils to Oxbridge over three years than nearly 2,000 others combined, according to an education charity.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/education-14069516</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/education-14069516</guid>  
+      <pubDate>Fri, 08 Jul 2011 13:49:58 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53905000/jpg/_53905087_degree66.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53929000/jpg/_53929224_cambridge_afp.jpg"/> 
+    </item>  
+    <item> 
+      <title>'Rate schools' on degree places</title>  
+      <description>Schools should be rated on the number of pupils they get into universities, the head of Ucas says</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/education-14079962</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/education-14079962</guid>  
+      <pubDate>Fri, 08 Jul 2011 12:09:59 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53940000/jpg/_53940849_009805754-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53940000/jpg/_53940845_009805754-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Secret agents raid webcam artist</title>  
+      <description>The US Secret Service has raided the home of an artist who collected images from webcams in a New York Apple store.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/technology-14080438</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-14080438</guid>  
+      <pubDate>Fri, 08 Jul 2011 14:54:32 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53946000/jpg/_53946369_105778936(1).jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53945000/jpg/_53945228_105778936(1).jpg"/> 
+    </item>  
+    <item> 
+      <title>First solar park due to power up</title>  
+      <description>The first solar park in Wales is expected to start converting sunlight into electricity later at the Rhosygilwen estate in Pembrokeshire.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-wales-14073447</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-wales-14073447</guid>  
+      <pubDate>Fri, 08 Jul 2011 06:46:46 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53930000/jpg/_53930099_solar.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53930000/jpg/_53930078_solar.jpg"/> 
+    </item>  
+    <item> 
+      <title>Yahoo! criticised over email scan</title>  
+      <description>A leading consumer group has accused Yahoo! of scanning through personal e-mails for information to use to sell advertising.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/newsbeat/14077856</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/newsbeat/14077856</guid>  
+      <pubDate>Fri, 08 Jul 2011 15:03:47 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53934000/jpg/_53934046_012283127-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53940000/jpg/_53940872_012283127-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Scientists decode potato genome</title>  
+      <description>International scientists based in Scotland decode the full DNA sequence of the potato, one of the world's most important staple crops, for the first time.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/science-environment-14096485</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-14096485</guid>  
+      <pubDate>Sun, 10 Jul 2011 02:51:42 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962067_003122205-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962068_003122205-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Prospects worsen for at-risk tuna</title>  
+      <description>Two more species of tuna have been added to the Red List of Threatened Species.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/science-environment-14066250</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-14066250</guid>  
+      <pubDate>Sat, 09 Jul 2011 13:08:30 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53919000/jpg/_53919426_hi001945630.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53923000/jpg/_53923814_hi001945630.jpg"/> 
+    </item>  
+    <item> 
+      <title>Japan PM sorry for nuclear mix-up</title>  
+      <description>Japan's prime minister apologises for confusion caused by his order for nuclear power firms to carry out more safety tests.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-asia-pacific-14075758</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-pacific-14075758</guid>  
+      <pubDate>Fri, 08 Jul 2011 10:00:11 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53912000/jpg/_53912075_53911351.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53936000/jpg/_53936333_117502416.jpg"/> 
+    </item>  
+    <item> 
+      <title>Is Jessica Chastain Hollywood's best-kept secret?</title>  
+      <description>Palme d'Or winning The Tree of Life actress Jessica Chastain commences her year of cinema domination.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/entertainment-arts-13974210</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-13974210</guid>  
+      <pubDate>Sun, 10 Jul 2011 09:52:34 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53782000/jpg/_53782899_012064685-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53890000/jpg/_53890046_012064685-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Foo Fighters close T in the Park</title>  
+      <description>The Foo Fighters will bring T in the Park 2011 to a close after show-stopping Saturday performances from Coldplay and Beyonce.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-scotland-tayside-central-14097767</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-scotland-tayside-central-14097767</guid>  
+      <pubDate>Sun, 10 Jul 2011 09:37:01 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53963000/jpg/_53963001_012414106-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962997_012414106-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Buena Vista guitarist Galban dies</title>  
+      <description>Buena Vista Social Club guitarist Manuel Galban has died in Havana after suffering a heart attack aged 80.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/entertainment-arts-14097468</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-14097468</guid>  
+      <pubDate>Sun, 10 Jul 2011 09:21:32 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>When tabloid reporters crossed the line</title>  
+      <description>The News of the World is closing amid a major scandal over phone hacking and alleged payments to police officers, but once upon a time journalists went even further to get the ultimate story.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/magazine-14077634</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-14077634</guid>  
+      <pubDate>Fri, 08 Jul 2011 10:03:36 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53938000/jpg/_53938553_mont_464.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53938000/jpg/_53938932_now.144.jpg"/> 
+    </item>  
+    <item> 
+      <title>Quiz of the week's news</title>  
+      <description>The Magazine's weekly quiz of the news, 7 days 7 questions.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/magazine-14062193</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-14062193</guid>  
+      <pubDate>Fri, 08 Jul 2011 03:18:46 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53924000/jpg/_53924311_man.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53924000/jpg/_53924315_man.jpg"/> 
+    </item>  
+    <item> 
+      <title>What does it say on the tin?</title>  
+      <description>The complicated job of reading food labels is set to get easier, but what makes it so hard?</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/magazine-14045305</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-14045305</guid>  
+      <pubDate>Thu, 07 Jul 2011 10:51:04 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53893000/jpg/_53893497_man.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53912000/jpg/_53912865_beans.jpg"/> 
+    </item>  
+    <item> 
+      <title>Pick of the Parliamentary week</title>  
+      <description>Phone hacking dominated... fears raised UK drivers could get the freedom to speed abroad, and MPs expenses back in spotlight.</description>  
+      <link>http://news.bbc.co.uk/go/rss/int/news/-/democracylive/hi/comment/newsid_9532000/9532794.stm</link>  
+      <guid isPermaLink="false">http://news.bbc.co.uk/democracylive/hi/comment/newsid_9532000/9532794.stm</guid>  
+      <pubDate>Fri, 08 Jul 2011 10:20:24 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53348000/jpg/_53348168_bigbenflagstwo.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53348000/jpg/_53348167_bigbenflagstwo.jpg"/> 
+    </item>  
+    <item> 
+      <title>Test tube miracles</title>  
+      <description>25 years of IVF treatment at one of the UK's first dedicated centres</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/health-11442887</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-11442887</guid>  
+      <pubDate>Sat, 16 Oct 2010 23:22:05 GMT</pubDate>  
+      <media:thumbnail width="3000" height="1800" url="http://news.bbcimg.co.uk/media/images/49316000/jpg/_49316669_care2.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/49535000/jpg/_49535847_care6.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Africa drought overwhelming camps</title>  
+      <description>More than 10 million people are now thought to be affected by the worst drought to hit East Africa in 60 years.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-africa-14095959</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-14095959</guid>  
+      <pubDate>Sat, 09 Jul 2011 20:36:00 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53961000/jpg/_53961113_jex_1103005_de27-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53961000/jpg/_53961111_jex_1103005_de27-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Stephen Fry on royal couple's 'charisma'</title>  
+      <description>As the Duke and Duchess of Cambridge attend a black-tie reception in Los Angeles to promote up and coming British actors and directors, actor Stephen Fry says the couple have a ''very particular charisma at the moment'' which could benefit the UK.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/entertainment-arts-14097295</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-14097295</guid>  
+      <pubDate>Sun, 10 Jul 2011 08:14:00 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962461_fry.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962459_fry.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: William and Kate meet the stars in LA</title>  
+      <description>The Duke and Duchess of Cambridge have been attending a black-tie reception in Los Angeles, to promote up-and-coming British actors and directors.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-14097115</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-14097115</guid>  
+      <pubDate>Sun, 10 Jul 2011 07:39:51 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962368_royals.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53976000/jpg/_53976633_royals.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Six police hurt in County Antrim riot</title>  
+      <description>Six police officers have been hurt in rioting in County Antrim overnight.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-northern-ireland-14097292</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-northern-ireland-14097292</guid>  
+      <pubDate>Sun, 10 Jul 2011 07:45:26 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962389_car.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962387_car.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: News of the World says farewell</title>  
+      <description>The final edition of the News of the World is being printed overnight, 168 years after the first copy was published, because of the phone hacking scandal.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/uk-14096348</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-14096348</guid>  
+      <pubDate>Sat, 09 Jul 2011 21:52:07 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53961000/jpg/_53961717_012417622-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53961000/jpg/_53961715_012417622-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Argentina singer Cabral shot dead</title>  
+      <description>One of Latin America's most famous folk singers, Facundo Cabral, has been shot dead in the capital of Guatemala, officials say.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-latin-america-14096496</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-14096496</guid>  
+      <pubDate>Sun, 10 Jul 2011 01:33:19 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962009_jex_1103055_de27-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53962000/jpg/_53962007_jex_1103055_de27-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Under fire on the road to Tripoli</title>  
+      <description>Libyan rebels are making progress towards the strategically important town of Zlitan on the road to Tripoli, following weeks of stalemate.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-middle-east-14094502</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-14094502</guid>  
+      <pubDate>Sat, 09 Jul 2011 16:50:45 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53959000/jpg/_53959381_jex_1102945_de27-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53959000/jpg/_53959379_jex_1102945_de27-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Tear gas used on Malaysia protest</title>  
+      <description>Police in Malaysia have used tear gas and water cannon against thousands of people gathered for a protest calling for electoral reform.</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-asia-pacific-14096013</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-pacific-14096013</guid>  
+      <pubDate>Sat, 09 Jul 2011 21:21:01 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53961000/jpg/_53961604_jex_1103018_de19-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53961000/jpg/_53961602_jex_1103018_de19-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>'Pressure cooker of fear'</title>  
+      <description>Insider's story of thrills, paranoia and rivalry at News of the World</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/magazine-14078182</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-14078182</guid>  
+      <pubDate>Sun, 10 Jul 2011 10:41:05 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53947000/jpg/_53947801_012397869-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53947000/jpg/_53947799_012388070-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Shuttle off</title>  
+      <description>Just how far has Nasa's fleet travelled since its 1981 debut?</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/science-environment-14066133</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-14066133</guid>  
+      <pubDate>Thu, 07 Jul 2011 16:48:13 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53925000/jpg/_53925157_shuttle.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53922000/jpg/_53922513_shuttle.jpg"/> 
+    </item>  
+    <item> 
+      <title>Sounds fake</title>  
+      <description>The everyday noises that are engineered to please</description>  
+      <link>http://news.bbc.co.uk/go/rss/int/news/-/1/hi/programmes/click_online/9533769.stm</link>  
+      <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/programmes/click_online/9533769.stm</guid>  
+      <pubDate>Fri, 08 Jul 2011 16:34:07 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53950000/jpg/_53950497_2638683.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53950000/jpg/_53950498_2638683.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Costume change</title>  
+      <description>How Georgia is rediscovering many of its cultural traditions</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-europe-14077350</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-14077350</guid>  
+      <pubDate>Sun, 10 Jul 2011 05:50:06 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53933000/jpg/_53933705_choka.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53933000/jpg/_53933707_choka.jpg"/> 
+    </item>  
+    <item> 
+      <title>Picture perfect?</title>  
+      <description>How China's one-child generation sees its future</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/world-asia-pacific-14080905</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-pacific-14080905</guid>  
+      <pubDate>Sat, 09 Jul 2011 23:28:56 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53945000/jpg/_53945577_mao_464.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53940000/jpg/_53940416_mao_144.jpg"/> 
+    </item>  
+    <item> 
+      <title>Fighting back</title>  
+      <description>How heart medicine has been transformed in 50 years</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/health-14062556</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-14062556</guid>  
+      <pubDate>Sun, 10 Jul 2011 00:05:09 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/53915000/jpg/_53915449_patienctinfirstccu_fromdesmondjulian.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53915000/jpg/_53915447_patienctinfirstccu_fromdesmondjulian.jpg"/> 
+    </item>  
+    <item> 
+      <title>In praise of the zoo</title>  
+      <description>How exotic animals can help put some perspective into adult lives</description>  
+      <link>http://www.bbc.co.uk/go/rss/int/news/-/news/magazine-14078657</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-14078657</guid>  
+      <pubDate>Fri, 08 Jul 2011 13:48:40 GMT</pubDate>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/53938000/jpg/_53938929_lion.624.jpg"/> 
+    </item> 
+  </channel> 
+</rss>
