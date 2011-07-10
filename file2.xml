@@ -1,4 +1,4 @@
-#<Net::HTTPOK:0x104ba6a30>
+#<Net::HTTPOK:0x1024cdfa8>
 <?xml version="1.0" encoding="UTF-8"?>
 
 <feed xmlns="http://www.w3.org/2005/Atom" version="1.0" xml:lang="en">
@@ -6,22 +6,29 @@
 <subtitle type="text">What are people searching for on Google today?</subtitle>
 <id>http://www.google.com/trends/hottrends/atom/hourly,2007-08</id>
 <link href="http://www.google.com/trends/hottrends/atom/hourly" rel="self"/>
-<updated>2011-07-10T12:52:46Z</updated>
+<updated>2011-07-10T14:53:04Z</updated>
 <entry xmlns="http://www.w3.org/2005/Atom">
-<id>2011-07-10T12:52:46Z</id>
-<title type="text"><![CDATA[ellie goulding, pittsburgh post gazette, ...]]></title>
+<id>2011-07-10T14:53:04Z</id>
+<title type="text"><![CDATA[pittsburgh post gazette, ellie goulding, ...]]></title>
 <content type="html"><![CDATA[<ol>
+<li><span class="Medium equal"><a href="http://www.google.com/trends/hottrends?q=pittsburgh+post+gazette&date=2011-7-10&sa=X">pittsburgh post gazette</a></span></li>
 <li><span class="Mild equal"><a href="http://www.google.com/trends/hottrends?q=ellie+goulding&date=2011-7-10&sa=X">ellie goulding</a></span></li>
-<li><span class="Mild new"><a href="http://www.google.com/trends/hottrends?q=pittsburgh+post+gazette&date=2011-7-10&sa=X">pittsburgh post gazette</a></span></li>
-<li><span class="Mild new"><a href="http://www.google.com/trends/hottrends?q=dancing+with+the+stars+2011&date=2011-7-10&sa=X">dancing with the stars 2011</a></span></li>
-<li><span class="Mild new"><a href="http://www.google.com/trends/hottrends?q=music+videos&date=2011-7-10&sa=X">music videos</a></span></li>
+<li><span class="Mild equal"><a href="http://www.google.com/trends/hottrends?q=dancing+with+the+stars&date=2011-7-10&sa=X">dancing with the stars</a></span></li>
+<li><span class="Mild up6"><a href="http://www.google.com/trends/hottrends?q=high+school+musical&date=2011-7-10&sa=X">high school musical</a></span></li>
+<li><span class="Mild down1"><a href="http://www.google.com/trends/hottrends?q=hawaii+five+o&date=2011-7-10&sa=X">hawaii five o</a></span></li>
+<li><span class="Mild down1"><a href="http://www.google.com/trends/hottrends?q=nikola+tesla&date=2011-7-10&sa=X">nikola tesla</a></span></li>
+<li><span class="Mild down1"><a href="http://www.google.com/trends/hottrends?q=music+videos&date=2011-7-10&sa=X">music videos</a></span></li>
+<li><span class="Mild up8"><a href="http://www.google.com/trends/hottrends?q=minka+kelly&date=2011-7-10&sa=X">minka kelly</a></span></li>
+<li><span class="Mild new"><a href="http://www.google.com/trends/hottrends?q=salt&date=2011-7-10&sa=X">salt</a></span></li>
 <li><span class="Mild down3"><a href="http://www.google.com/trends/hottrends?q=luigi&date=2011-7-10&sa=X">luigi</a></span></li>
 <li><span class="Mild down3"><a href="http://www.google.com/trends/hottrends?q=netball&date=2011-7-10&sa=X">netball</a></span></li>
-<li><span class="Mild down3"><a href="http://www.google.com/trends/hottrends?q=earthquake+in+japan&date=2011-7-10&sa=X">earthquake in japan</a></span></li>
-<li><span class="Mild down2"><a href="http://www.google.com/trends/hottrends?q=dish+tv&date=2011-7-10&sa=X">dish tv</a></span></li>
-<li><span class="Mild down4"><a href="http://www.google.com/trends/hottrends?q=amber+heard&date=2011-7-10&sa=X">amber heard</a></span></li>
-<li><span class="Mild new"><a href="http://www.google.com/trends/hottrends?q=buddha&date=2011-7-10&sa=X">buddha</a></span></li>
-<li><span class="Mild down4"><a href="http://www.google.com/trends/hottrends?q=minka+kelly&date=2011-7-10&sa=X">minka kelly</a></span></li>
-<li><span class="Mild new"><a href="http://www.google.com/trends/hottrends?q=high+school+musical&date=2011-7-10&sa=X">high school musical</a></span></li>
+<li><span class="Mild down3"><a href="http://www.google.com/trends/hottrends?q=gm&date=2011-7-10&sa=X">gm</a></span></li>
+<li><span class="Mild down2"><a href="http://www.google.com/trends/hottrends?q=earthquake+in+japan&date=2011-7-10&sa=X">earthquake in japan</a></span></li>
+<li><span class="Mild down2"><a href="http://www.google.com/trends/hottrends?q=andre+agassi&date=2011-7-10&sa=X">andre agassi</a></span></li>
+<li><span class="Mild equal"><a href="http://www.google.com/trends/hottrends?q=dish+tv&date=2011-7-10&sa=X">dish tv</a></span></li>
+<li><span class="Mild down3"><a href="http://www.google.com/trends/hottrends?q=tbs&date=2011-7-10&sa=X">tbs</a></span></li>
+<li><span class="Mild new"><a href="http://www.google.com/trends/hottrends?q=fl&date=2011-7-10&sa=X">fl</a></span></li>
+<li><span class="Mild new"><a href="http://www.google.com/trends/hottrends?q=center+stage&date=2011-7-10&sa=X">center stage</a></span></li>
+<li><span class="Mild down5"><a href="http://www.google.com/trends/hottrends?q=amber+heard&date=2011-7-10&sa=X">amber heard</a></span></li>
 </ol>
 ]]></content></entry></feed>
