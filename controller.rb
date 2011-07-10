@@ -148,6 +148,7 @@ end
 
 
   get '/' do
+    set :root, File.dirname(__FILE__)
     data = RetrieveData.new
     @youtube_toprated = data.RetrieveTubeTop
     @twitter_trends = data.RetrieveTwitterTrends
