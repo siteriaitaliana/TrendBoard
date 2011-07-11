@@ -107,7 +107,7 @@ class RetrieveData
     newsfeed = Net::HTTP.get(uri)
     news = JSON.parse(newsfeed)
     newsquery = Array.new(10)
-    newsquery.push(news['response']['results'][0]['webTitle']+"\n")
+    newsquery.push(news['response']['results'][0]['webTitle'])
     newsquery.push(news['response']['results'][1]['webTitle'])
     newsquery.push(news['response']['results'][2]['webTitle'])
     newsquery.push(news['response']['results'][3]['webTitle'])
