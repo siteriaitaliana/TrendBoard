@@ -9,8 +9,8 @@ require 'json'
 require 'uri'
 require 'i18n'
 
-class RetrieveData 
-  
+class RetrieveData
+   
   def RetrieveTubeTop 
     youtubefeedurl = 'http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?time=today&max-results=10'
     uri = URI.parse(youtubefeedurl)
@@ -157,11 +157,11 @@ end
     @guardian_news = data.RetrieveGuardianLatest
     @bbc_news = data.RetrieveBBCnews
     haml :index
- end
+  end
  
- get '/logo.png' do
-  #custom logic..
-  send_file "logo.png"
+  get '/logo.png' do
+    #custom logic..
+    send_file "logo.png"
   end
   
 
