@@ -1,0 +1,35 @@
+#<Net::HTTPOK:0x1024d82a0>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" version="1.0" xml:lang="en">
+<title type="text">Google Hot Trends</title>
+<subtitle type="text">What are people searching for on Google today?</subtitle>
+<id>http://www.google.com/trends/hottrends/atom/hourly,2007-08</id>
+<link href="http://www.google.com/trends/hottrends/atom/hourly" rel="self"/>
+<updated>2011-07-11T16:59:45Z</updated>
+<entry xmlns="http://www.w3.org/2005/Atom">
+<id>2011-07-11T16:59:45Z</id>
+<title type="text"><![CDATA[7 eleven, coheed and cambria, comed, ncaa football 12, ...]]></title>
+<content type="html"><![CDATA[<ol>
+<li><span class="Spicy equal"><a href="http://www.google.com/trends/hottrends?q=7+eleven&date=2011-7-11&sa=X">7 eleven</a></span></li>
+<li><span class="Spicy equal"><a href="http://www.google.com/trends/hottrends?q=coheed+and+cambria&date=2011-7-11&sa=X">coheed and cambria</a></span></li>
+<li><span class="Medium equal"><a href="http://www.google.com/trends/hottrends?q=comed&date=2011-7-11&sa=X">comed</a></span></li>
+<li><span class="Medium equal"><a href="http://www.google.com/trends/hottrends?q=ncaa+football+12&date=2011-7-11&sa=X">ncaa football 12</a></span></li>
+<li><span class="Mild new"><a href="http://www.google.com/trends/hottrends?q=debt+ceiling&date=2011-7-11&sa=X">debt ceiling</a></span></li>
+<li><span class="Mild equal"><a href="http://www.google.com/trends/hottrends?q=gonorrhea&date=2011-7-11&sa=X">gonorrhea</a></span></li>
+<li><span class="Mild new"><a href="http://www.google.com/trends/hottrends?q=pnc&date=2011-7-11&sa=X">pnc</a></span></li>
+<li><span class="Mild down3"><a href="http://www.google.com/trends/hottrends?q=chicago+weather&date=2011-7-11&sa=X">chicago weather</a></span></li>
+<li><span class="Mild equal"><a href="http://www.google.com/trends/hottrends?q=pearl+jam&date=2011-7-11&sa=X">pearl jam</a></span></li>
+<li><span class="Mild up30"><a href="http://www.google.com/trends/hottrends?q=miranda+kerr&date=2011-7-11&sa=X">miranda kerr</a></span></li>
+<li><span class="Mild down3"><a href="http://www.google.com/trends/hottrends?q=skylar+grey&date=2011-7-11&sa=X">skylar grey</a></span></li>
+<li><span class="Mild down2"><a href="http://www.google.com/trends/hottrends?q=siri&date=2011-7-11&sa=X">siri</a></span></li>
+<li><span class="Mild up1"><a href="http://www.google.com/trends/hottrends?q=alcatraz&date=2011-7-11&sa=X">alcatraz</a></span></li>
+<li><span class="Mild new"><a href="http://www.google.com/trends/hottrends?q=warrior&date=2011-7-11&sa=X">warrior</a></span></li>
+<li><span class="Mild new"><a href="http://www.google.com/trends/hottrends?q=djia&date=2011-7-11&sa=X">djia</a></span></li>
+<li><span class="Mild down3"><a href="http://www.google.com/trends/hottrends?q=curb+your+enthusiasm&date=2011-7-11&sa=X">curb your enthusiasm</a></span></li>
+<li><span class="Mild up3"><a href="http://www.google.com/trends/hottrends?q=dow+jones&date=2011-7-11&sa=X">dow jones</a></span></li>
+<li><span class="Mild down3"><a href="http://www.google.com/trends/hottrends?q=david+beckham&date=2011-7-11&sa=X">david beckham</a></span></li>
+<li><span class="Mild up7"><a href="http://www.google.com/trends/hottrends?q=irs.gov&date=2011-7-11&sa=X">irs.gov</a></span></li>
+<li><span class="Mild new"><a href="http://www.google.com/trends/hottrends?q=detroit+free+press&date=2011-7-11&sa=X">detroit free press</a></span></li>
+</ol>
+]]></content></entry></feed>
