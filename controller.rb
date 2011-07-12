@@ -14,12 +14,12 @@ class RetrieveData
   def RetrieveTubeTop 
     youtubefeedurl = 'http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?time=today&max-results=10'
     uri = URI.parse(youtubefeedurl)
-    File.open("./tmp/file1_#{Process.pid}.xml", "w+") do |f|
+    File.open("./tmp/file1.xml", "w+") do |f|
       Net::HTTP.start(uri.host, uri.port) do  |http|
         f.puts(http.get(uri.path))
       end
     end   
-    youtubefeed = XmlSimple.xml_in("./tmp/file1_#{Process.pid}.xml", {'KeyAttr' => 'name'})
+    youtubefeed = XmlSimple.xml_in("./tmp/file1.xml", {'KeyAttr' => 'name'})
     titles = Array.new
     (0..24).each do |i|
       titles.push(youtubefeed ['entry'][i]['title'][0]['content'])
@@ -90,12 +90,13 @@ class RetrieveData
     lasttweets = 'http://www.google.com/trends/hottrends/atom/hourly'
     
     uri = URI.parse(lasttweets)
-    File.open("./tmp/file2_#{Process.pid}.xml", "w+") do |f|
+    File.open("./tmp/file2.xml", "w+") do |f|
       Net::HTTP.start(uri.host, uri.port) do  |http|
         f.puts(http.get(uri.path))
       end
     end   
-    googletrends = XmlSimple.xml_in("./tmp/file2_#{Process.pid}.xml", {'KeyAttr' => 'name'})
+    googletrends = XmlSimple.xml_in("./tmp/file2.xml", {'KeyAttr' => 'name'})
+    googletrends.xpath()
     gtrends = Array.new
     gtrends.push(googletrends)
     return gtrends
@@ -123,13 +124,13 @@ class RetrieveData
     lastbbcnews = 'http://feeds.bbci.co.uk/news/rss.xml'
     
     uri = URI.parse(lastbbcnews)
-    File.open("./tmp/file3_#{Process.pid}.xml", "w+") do |f|
+    File.open("./tmp/file3.xml", "w+") do |f|
       Net::HTTP.start(uri.host, uri.port) do  |http|
         f.puts(http.get(uri.path))
       end
     end 
       
-    bbcnews = XmlSimple.xml_in("./tmp/file3_#{Process.pid}.xml", {'KeyAttr' => 'name'})
+    bbcnews = XmlSimple.xml_in("./tmp/file3.xml", {'KeyAttr' => 'name'})
     news = Array.new
     news.push(bbcnews['channel'][0]['item'][0]['title'])
     news.push(bbcnews['channel'][0]['item'][1]['title'])
